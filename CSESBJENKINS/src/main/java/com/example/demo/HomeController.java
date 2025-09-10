@@ -10,6 +10,6 @@ public class HomeController {
 	@RequestMapping("/home")
 	@ResponseBody
 	public String rocks() {
-		return "DURGA PRASAD";
+		return "DURGnnnA PRASAD";
 	}
 }
